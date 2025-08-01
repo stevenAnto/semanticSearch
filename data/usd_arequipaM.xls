@@ -1,0 +1,35 @@
+<table><tr><td valign='Top'><b>DEPARTAMENTO:</b></td><td>AREQUIPA</td></tr></table><table><tr><td valign='Top'><b>TIPO DE PRODUCTO:</b></td><td>DEPOSITOS</td></tr></table><table><tr><td valign='Top'><b>PRODUCTO:</b></td><td>AHORRO PERSONAS NATURALES</td></tr></table><table><tr><td valign='Top'><b>CONDICION:</b></td><td>CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO</td></tr></table><table><tr><td><b>FECHA:</b></td><td>Al 19/07/2025</td></tr></table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>ENTIDAD</td><td><B>Tasa de Rendimiento Efectivo Anual (TREA)<br>(%)</b></td>
+	</tr><tr>
+		<td>BANCO FALABELLA</td><td>1.5</td>
+	</tr><tr>
+		<td>MIBANCO</td><td>0.25</td>
+	</tr><tr>
+		<td>CMAC AREQUIPA</td><td>0.25</td>
+	</tr><tr>
+		<td>BANBIF</td><td>0.2</td>
+	</tr><tr>
+		<td>INTERBANK</td><td>0.2</td>
+	</tr><tr>
+		<td>SCOTIABANK PERU</td><td>0.15</td>
+	</tr><tr>
+		<td>BANCO DE CREDITO</td><td>0.1</td>
+	</tr><tr>
+		<td>FINANC. PROEMPRESA</td><td>0.1</td>
+	</tr><tr>
+		<td>CMAC ICA</td><td>0.1</td>
+	</tr><tr>
+		<td>CMAC TACNA</td><td>0.05</td>
+	</tr><tr>
+		<td>CMAC CUSCO</td><td>0.01</td>
+	</tr><tr>
+		<td>ALFIN BANCO</td><td>0</td>
+	</tr><tr>
+		<td>BBVA</td><td>0</td>
+	</tr><tr>
+		<td>CMAC PIURA</td><td>-1.03</td>
+	</tr><tr>
+		<td>BANCOM</td><td>-1.31</td>
+	</tr>
+</table>

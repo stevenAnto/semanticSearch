@@ -1,0 +1,33 @@
+# Ignorar entornos virtuales
+ambiente/
+webScraping/env/
+
+# Ignorar archivos de base de datos comunes
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.sql
+*.dump
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de sistema o de edición
+*.swp
+.DS_Store
+Thumbs.db
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos comprimidos
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+# Ignorar binarios o drivers descargados
+webScraping/chromedriver-linux64
+
