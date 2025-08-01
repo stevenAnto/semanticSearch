@@ -1,0 +1,877 @@
+[
+  {
+    "query": "cuentas de ahorro en ayacucho",
+    "results": [
+      {
+        "id": 6429,
+        "ubicacion": "AYACUCHO",
+        "entidad": "BN. SANTANDER CONS.",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6424,
+        "ubicacion": "AYACUCHO",
+        "entidad": "CRAC LOS ANDES",
+        "tasa": "0.080",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6428,
+        "ubicacion": "AYACUCHO",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6448,
+        "ubicacion": "AYACUCHO",
+        "entidad": "MIBANCO",
+        "tasa": "0.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6431,
+        "ubicacion": "AYACUCHO",
+        "entidad": "MIBANCO",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6454,
+        "ubicacion": "AYACUCHO",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 5659,
+        "ubicacion": "AYACUCHO",
+        "entidad": "BN. SANTANDER CONS.",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES"
+      },
+      {
+        "id": 6649,
+        "ubicacion": "JUNIN",
+        "entidad": "CRAC LOS ANDES",
+        "tasa": "0.080",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6426,
+        "ubicacion": "AYACUCHO",
+        "entidad": "COMPARTAMOS BANCO",
+        "tasa": "0.010",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6585,
+        "ubicacion": "HUANUCO",
+        "entidad": "BN. SANTANDER CONS.",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      }
+    ]
+  },
+  {
+    "query": "cuentas de ahorro en arequipa",
+    "results": [
+      {
+        "id": 6414,
+        "ubicacion": "AREQUIPA",
+        "entidad": "BN. SANTANDER CONS.",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6412,
+        "ubicacion": "AREQUIPA",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 5625,
+        "ubicacion": "AREQUIPA",
+        "entidad": "BN. SANTANDER CONS.",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES"
+      },
+      {
+        "id": 6406,
+        "ubicacion": "AREQUIPA",
+        "entidad": "CRAC LOS ANDES",
+        "tasa": "0.080",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6445,
+        "ubicacion": "AREQUIPA",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 5643,
+        "ubicacion": "AREQUIPA",
+        "entidad": "BN. SANTANDER CONS.",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES CON COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES"
+      },
+      {
+        "id": 6434,
+        "ubicacion": "AREQUIPA",
+        "entidad": "MIBANCO",
+        "tasa": "0.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6410,
+        "ubicacion": "AREQUIPA",
+        "entidad": "CRAC INCASUR",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6409,
+        "ubicacion": "AREQUIPA",
+        "entidad": "BANBIF",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6417,
+        "ubicacion": "AREQUIPA",
+        "entidad": "MIBANCO",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      }
+    ]
+  },
+  {
+    "query": "cuentas de ahorro del banco BBVA",
+    "results": [
+      {
+        "id": 6653,
+        "ubicacion": "JUNIN",
+        "entidad": "BANCO DE CREDITO",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6667,
+        "ubicacion": "JUNIN",
+        "entidad": "BANCO DE CREDITO",
+        "tasa": "0.100",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 5886,
+        "ubicacion": "JUNIN",
+        "entidad": "BANCO DE CREDITO",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES"
+      },
+      {
+        "id": 5902,
+        "ubicacion": "JUNIN",
+        "entidad": "BANCO DE CREDITO",
+        "tasa": "0.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES CON COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES"
+      },
+      {
+        "id": 6673,
+        "ubicacion": "JUNIN",
+        "entidad": "BANCOM",
+        "tasa": "-1.310",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6739,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "BANCO DE CREDITO",
+        "tasa": "0.100",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6714,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "BANCO GNB",
+        "tasa": "0.200",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6725,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "BANCO DE CREDITO",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6200,
+        "ubicacion": "SAN MARTIN",
+        "entidad": "BANCO DE CREDITO",
+        "tasa": "0.100",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES"
+      },
+      {
+        "id": 6970,
+        "ubicacion": "SAN MARTIN",
+        "entidad": "BANCO DE CREDITO",
+        "tasa": "0.100",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      }
+    ]
+  },
+  {
+    "query": "cuentas de ahorro en la entidad BBVA",
+    "results": [
+      {
+        "id": 6654,
+        "ubicacion": "JUNIN",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6671,
+        "ubicacion": "JUNIN",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6959,
+        "ubicacion": "SAN MARTIN",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6691,
+        "ubicacion": "LA LIBERTAD",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 5908,
+        "ubicacion": "JUNIN",
+        "entidad": "BBVA",
+        "tasa": "-9.600",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES CON COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES"
+      },
+      {
+        "id": 6973,
+        "ubicacion": "SAN MARTIN",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6412,
+        "ubicacion": "AREQUIPA",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 5887,
+        "ubicacion": "JUNIN",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES"
+      },
+      {
+        "id": 6203,
+        "ubicacion": "SAN MARTIN",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES"
+      },
+      {
+        "id": 6656,
+        "ubicacion": "JUNIN",
+        "entidad": "BN. SANTANDER CONS.",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      }
+    ]
+  },
+  {
+    "query": "cuentas en el banco pichincha",
+    "results": [
+      {
+        "id": 6711,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": "2.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6674,
+        "ubicacion": "LA LIBERTAD",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": "2.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6638,
+        "ubicacion": "JUNIN",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": "2.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6396,
+        "ubicacion": "AREQUIPA",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": "2.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6347,
+        "ubicacion": "ANCASH",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": "2.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6917,
+        "ubicacion": "PUNO",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": "2.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6419,
+        "ubicacion": "AYACUCHO",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": "2.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6946,
+        "ubicacion": "SAN MARTIN",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": "2.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6975,
+        "ubicacion": "TACNA",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": "2.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6886,
+        "ubicacion": "PIURA",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": "2.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      }
+    ]
+  },
+  {
+    "query": "cuentas de ahorro con alta tasa de interes",
+    "results": [
+      {
+        "id": 5707,
+        "ubicacion": "CALLAO",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 2.25,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6913
+      },
+      {
+        "id": 5674,
+        "ubicacion": "CAJAMARCA",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6686
+      },
+      {
+        "id": 6219,
+        "ubicacion": "TACNA",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6686
+      },
+      {
+        "id": 5607,
+        "ubicacion": "AREQUIPA",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6686
+      },
+      {
+        "id": 5531,
+        "ubicacion": "AMAZONAS",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6686
+      },
+      {
+        "id": 5812,
+        "ubicacion": "HUANUCO",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6686
+      },
+      {
+        "id": 6296,
+        "ubicacion": "UCAYALI",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6686
+      },
+      {
+        "id": 5544,
+        "ubicacion": "ANCASH",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6686
+      },
+      {
+        "id": 6270,
+        "ubicacion": "TUMBES",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6686
+      },
+      {
+        "id": 6035,
+        "ubicacion": "LORETO",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6686
+      }
+    ]
+  },
+  {
+    "query": "cuentas sin comision de mantenimiento",
+    "results": [
+      {
+        "id": 6639,
+        "ubicacion": "JUNIN",
+        "entidad": "CRAC DEL CENTRO",
+        "tasa": "0.300",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6641,
+        "ubicacion": "JUNIN",
+        "entidad": "CMAC PIURA",
+        "tasa": "0.150",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6672,
+        "ubicacion": "JUNIN",
+        "entidad": "CMAC PIURA",
+        "tasa": "-1.030",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6919,
+        "ubicacion": "PUNO",
+        "entidad": "CMAC PIURA",
+        "tasa": "0.150",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6640,
+        "ubicacion": "JUNIN",
+        "entidad": "CMAC MAYNAS",
+        "tasa": "0.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6916,
+        "ubicacion": "PUNO",
+        "entidad": "CMAC PIURA",
+        "tasa": "-1.030",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 7004,
+        "ubicacion": "TACNA",
+        "entidad": "CMAC PIURA",
+        "tasa": "-1.030",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6977,
+        "ubicacion": "TACNA",
+        "entidad": "CMAC PIURA",
+        "tasa": "0.150",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6898,
+        "ubicacion": "PIURA",
+        "entidad": "BANBIF",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6659,
+        "ubicacion": "JUNIN",
+        "entidad": "MIBANCO",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      }
+    ]
+  },
+  {
+    "query": "cuentas de ahorro en Lambayeque sin mantenimiento",
+    "results": [
+      {
+        "id": 6728,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "BN. SANTANDER CONS.",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6724,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "BANBIF",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6726,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6736,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "BANBIF",
+        "tasa": "0.200",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6731,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "MIBANCO",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6723,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "COMPARTAMOS BANCO",
+        "tasa": "0.010",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6734,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "MIBANCO",
+        "tasa": "0.250",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6721,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "CRAC LOS ANDES",
+        "tasa": "0.080",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6742,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "BBVA",
+        "tasa": "0.000",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      },
+      {
+        "id": 6744,
+        "ubicacion": "LAMBAYEQUE",
+        "entidad": "BANCOM",
+        "tasa": "-1.310",
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES CON COBRO DE MANTENIMIENTO",
+        "moneda": "dolares"
+      }
+    ]
+  },
+  {
+    "query": "cuentas de ahorro con buena tasa en Ayacucho",
+    "results": [
+      {
+        "id": 5707,
+        "ubicacion": "CALLAO",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 2.25,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6342
+      },
+      {
+        "id": 5674,
+        "ubicacion": "CAJAMARCA",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6098
+      },
+      {
+        "id": 6219,
+        "ubicacion": "TACNA",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6098
+      },
+      {
+        "id": 5607,
+        "ubicacion": "AREQUIPA",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6098
+      },
+      {
+        "id": 5531,
+        "ubicacion": "AMAZONAS",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6098
+      },
+      {
+        "id": 5812,
+        "ubicacion": "HUANUCO",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6098
+      },
+      {
+        "id": 6296,
+        "ubicacion": "UCAYALI",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6098
+      },
+      {
+        "id": 5544,
+        "ubicacion": "ANCASH",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6098
+      },
+      {
+        "id": 6270,
+        "ubicacion": "TUMBES",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6098
+      },
+      {
+        "id": 6035,
+        "ubicacion": "LORETO",
+        "entidad": "BANCO PICHINCHA",
+        "tasa": 4.0,
+        "tipo_cuenta": "AHORRO PERSONAS NATURALES",
+        "condiciones": "CUENTA DE AHORRO EN NUEVOS SOLES SIN COBRO DE MANTENIMIENTO",
+        "moneda": "SOLES",
+        "score": 0.6098
+      }
+    ]
+  }
+]

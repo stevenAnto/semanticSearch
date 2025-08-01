@@ -1,0 +1,53 @@
+[
+  {
+    "query": "cuentas de ahorro en ayacucho",
+    "criterio": "ubicacion",
+    "relevantes": ["AYACUCHO"]
+  },
+  {
+    "query": "cuentas de ahorro en arequipa",
+    "criterio": "ubicacion",
+    "relevantes": ["AREQUIPA"]
+  },
+  {
+    "query": "cuentas de ahorro del banco BBVA",
+    "criterio": "entidad",
+    "relevantes": ["BBVA"]
+  },
+  {
+    "query": "cuentas de ahorro en la entidad BBVA",
+    "criterio": "entidad",
+    "relevantes": ["BBVA"]
+  },
+  {
+    "query": "cuentas en el banco pichincha",
+    "criterio": "entidad",
+    "relevantes": ["BANCO PICHINCHA"]
+  },
+  {
+    "query": "cuentas de ahorro con alta tasa de interes",
+    "criterio": "tasa_minima",
+    "relevantes": [4.0]
+  },
+  {
+    "query": "cuentas sin comision de mantenimiento",
+    "criterio": "condiciones",
+    "relevantes": ["CUENTA DE AHORRO EN DOLARES SIN COBRO DE MANTENIMIENTO"]
+  },
+  {
+    "query": "cuentas de ahorro en Lambayeque sin mantenimiento",
+    "criterio": "ubicacion_condiciones",
+    "relevantes": {
+      "ubicacion": "lambayeque",
+      "condiciones": "sin mantenimiento"
+    }
+  },
+  {
+    "query": "cuentas de ahorro con buena tasa en Ayacucho",
+    "criterio": "ubicacion_tasa",
+    "relevantes": {
+      "ubicacion": "ayacucho",
+      "tasa_minima": 3.0
+    }
+  }
+]
